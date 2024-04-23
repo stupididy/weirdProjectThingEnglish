@@ -11,3 +11,5 @@ School is too tech iliterate.
 #### Plans for the future:
 1. Make a "player" model in blender at home
 2. Throw stuff into godot
+3. implement controls
+4. implement computer
