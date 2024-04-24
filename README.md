@@ -13,7 +13,14 @@ School is too tech iliterate.
 2. Throw stuff into godot
 3. implement controls
 4. implement 
+#### Q&A evidence:
+1. do you know a programming langauge?
+2. do you know what an operating system is?
+3. are you comfortable with a command line?
+4. have you ever run a server ON YOUR OWN HARDWARE?
+(if a person does not understand the question, the answer is no)
 
+1. 
 #### Research:
 ```
 
