@@ -13,6 +13,7 @@ School is too tech iliterate.
 2. Throw stuff into godot
 3. implement controls
 4. implement 
+5. Dialouge system
 #### Q&A evidence:
 1. do you know a programming langauge?
 2. do you know what an operating system is?
