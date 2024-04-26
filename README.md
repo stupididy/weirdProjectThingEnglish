@@ -12,16 +12,21 @@ School is too tech iliterate.
 1. Make a "player" model in blender at home
 2. Throw stuff into godot
 3. implement controls
-4. implement 
-5. Dialouge system
+4. implement a computer
+5. implement other human models
+6. godot so gdscript
+7. dialog with voice acting
+8. 1st and 3rd person camera system
+
 #### Q&A evidence:
 1. do you know a programming langauge?
 2. do you know what an operating system is?
 3. are you comfortable with a command line?
-4. have you ever run a server ON YOUR OWN HARDWARE?
+4. have you ever run a server ON YOUR OWN HARDWARE?\
 (if a person does not understand the question, the answer is no)
 
-1. 
+
+
 #### Research:
 ```
 
