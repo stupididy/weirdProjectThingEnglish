@@ -17,6 +17,16 @@ School is too tech iliterate.
 6. godot so gdscript
 7. dialog with voice acting
 8. 1st and 3rd person camera system
+9. Make Models:
+    - Desk
+    - Shelf
+    - Chair
+    - Clock
+    - Whiteboard
+    - Pencil
+    - Computer
+    - Binder
+    - 
 
 #### Q&A evidence:
 1. do you know a programming langauge?
