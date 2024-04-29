@@ -18,11 +18,11 @@ School is too tech iliterate.
 7. dialog with voice acting
 8. 1st and 3rd person camera system
 9. Make Models:
-    - Desk
-    - Shelf
+    - Desk(completed)
+    - Shelf(completed)
     - Chair
-    - Clock
-    - Whiteboard
+    - Clock(Completed)
+    - Whiteboard(Completed)
     - Pencil
     - Computer
     - Binder
