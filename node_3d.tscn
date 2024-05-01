@@ -1,0 +1,22 @@
+[gd_scene load_steps=5 format=3 uid="uid://cp4o8042cqmc"]
+
+[ext_resource type="PackedScene" uid="uid://cx72aecs7cmka" path="res://assets/chair.glb" id="1_h2rdd"]
+[ext_resource type="PackedScene" uid="uid://dv62egx1j4qw4" path="res://assets/playermodel.glb" id="2_auxwa"]
+[ext_resource type="PackedScene" uid="uid://bw0w45g6nrgpk" path="res://assets/desk.glb" id="3_oa4v4"]
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_bmx82"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="chair" parent="." instance=ExtResource("1_h2rdd")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0201943, 1.19209e-07, -0.0369656)
+
+[node name="playermodel" parent="." instance=ExtResource("2_auxwa")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, -0.084, 1.8, 0.009)
+
+[node name="desk" parent="." instance=ExtResource("3_oa4v4")]
+transform = Transform3D(0.2, 0, 0, 0, 0.2, 0, 0, 0, 0.2, -0.72, 0, 0.848)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0)
+mesh = SubResource("PlaneMesh_bmx82")
